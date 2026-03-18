@@ -53,3 +53,6 @@ Atlas checklist:
 
 ## Suggested final submission
 Use this zip as the cleanest project build among the generated versions.
+
+# Collage-project
+this is my collage project for last semester.
